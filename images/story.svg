@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#2a2a4a" width="400" height="300"/>
+  <rect fill="#1a1a2e" x="50" y="40" width="300" height="180" rx="8"/>
+  <text fill="#e94560" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="200" y="130">STORY</text>
+  <text fill="#a0a0a0" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" x="200" y="155">Narrative Connections</text>
+  <text fill="#a0a0a0" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" x="200" y="260">NextView</text>
+</svg>
